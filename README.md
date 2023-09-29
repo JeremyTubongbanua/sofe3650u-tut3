@@ -11,3 +11,5 @@ On a UNIX machine:
 ```sh
 ./run.sh
 ```
+
+Make sure to be in the root directory when running these commands (aka same level as `data.txt`)
